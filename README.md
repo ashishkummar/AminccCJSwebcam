@@ -1,6 +1,4 @@
-# AminccCJSwebcam
-
-Web camera using animate cc and create js
+# Render Web Camera in Animate CC
 
 You can use the code on timeline of Animate CC canvas document to render webcamera output in a movile clip. 
 
@@ -10,6 +8,10 @@ Convert it to MovieClip and give it instance name 'box' and paste the code given
 
 
 :)
+
+
+ 
+
 
 
 
