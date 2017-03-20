@@ -10,9 +10,14 @@ To achive this follow the below steps -
 
 3. Paste the code given in (animccwebcam.js) file on same timelile where you made movieClip  .
 
+
+Demo Link: https://html5questions.com/html5-ria/animCC/webcam/ 
+
+
+
 Comment below if you like it.
 
-:)
+ 
 
 
  
